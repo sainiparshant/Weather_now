@@ -1,0 +1,27 @@
+.temp-info{
+   height: 70px;
+   padding-top: 5px;
+}
+
+.image-container{
+    display: flex;
+    justify-content: space-between; 
+}
+
+.cont1 {
+    display: flex;
+    justify-content: space-between; 
+    gap: 20px; 
+    align-items: center;
+}
+.cont2{
+    display: flex;
+    gap: 165px; 
+    align-items: center;
+}
+
+.card-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
